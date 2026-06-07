@@ -1,0 +1,36 @@
+.app {
+  min-height: 100vh;
+  text-align: center;
+  padding: 40px;
+  transition: all 0.3s ease;
+}
+
+.light {
+  background-color: white;
+  color: black;
+}
+
+.dark {
+  background-color: #121212;
+  color: white;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.input-container {
+  margin-top: 20px;
+}
+
+input {
+  padding: 10px;
+  width: 250px;
+  font-size: 16px;
+}
+
+h2 {
+  margin-top: 20px;
+}
